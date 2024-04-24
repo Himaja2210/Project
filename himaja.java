@@ -4,3 +4,4 @@ public class HelloWorld {
         // The System.out.println method prints a line of text to the console
         System.out.println("Hello World");
     }
+}
